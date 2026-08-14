@@ -12,7 +12,7 @@
   Java • Spring Boot • Spring Security • REST APIs • Kafka/RabbitMQ • PostgreSQL • Maven/Gradle • Git • Docker • Kubernetes • JUnit/Mockito • CI/CD • Microservices • Linux
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,20&height=80&section=header" width="100%" />
 
 <p align="center">
   <img src="./images/cat.gif" width="100" alt="cat">
@@ -37,7 +37,7 @@
 
 <p align="center"><i>Core stack — technologies I already use and can talk about in an interview</i></p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,20&height=80&section=header" width="100%" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielYaruta&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
