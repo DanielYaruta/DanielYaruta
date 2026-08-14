@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Java • Spring Boot • PostgreSQL • REST API • Git
+  Java • Spring Boot • Spring Security • REST APIs • Kafka/RabbitMQ • PostgreSQL • Maven/Gradle • Git • Docker • Kubernetes • JUnit/Mockito • CI/CD • Microservices
 </p>
 
 ---
