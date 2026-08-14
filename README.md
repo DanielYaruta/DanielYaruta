@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-<h3 align="center">Hi, I'm Daniel!</h3>
-  <img src="./images/frog.gif" width="100" alt="cat">
+<h3 align="center">Hi, I'm Daniel! <img src="./images/frog.gif" width="100" alt="cat"> </h3>
+  
 </p>
 
 <p align="center">
