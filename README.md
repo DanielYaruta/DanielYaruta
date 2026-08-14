@@ -5,7 +5,7 @@
 <h3 align="center">
   <img src="https://placehold.co/40x1/00000000/00000000.png" width="40">
   Hi, I'm Daniel!
-  <img src="./images/frog.gif" width="40" alt="frog">
+  <img src="./images/frog.gif" width="100" alt="frog">
 </h3>
 
 <p align="center">
