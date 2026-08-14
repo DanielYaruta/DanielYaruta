@@ -1,12 +1,7 @@
-<p align="center">
+<div align="center">
   <img src="./images/banner.jpeg" alt="Daniel Yaruta — Java Backend Developer" width="800" />
-</p>
-
-<h3 align="center">
-  <img src="./images/transparent.png" width="70" alt="">
-  Hi, I'm Daniel!
-  <img src="./images/frog.gif" width="70" alt="frog">
-</h3>
+</div>
+<h3 align="center">Hi, I'm Daniel! <img src="./images/frog.gif" width="55" alt="frog"></h3>
 
 <p align="center">
   Java Backend Developer focused on building clean, reliable and maintainable backend systems.
