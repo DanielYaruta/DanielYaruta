@@ -12,7 +12,9 @@
   Java • Spring Boot • Spring Security • REST APIs • Kafka/RabbitMQ • PostgreSQL • Maven/Gradle • Git • Docker • Kubernetes • JUnit/Mockito • CI/CD • Microservices • Linux
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,20&height=80&section=header" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,20&height=100&section=header&width=1500" width="100%" />
+</p>
 
 <p align="center">
   <img src="./images/cat.gif" width="100" alt="cat">
