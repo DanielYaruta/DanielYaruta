@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./images/banner.jpeg" alt="Daniel Yaruta — Java Backend Developer" width="800" />
+</p>
+
 <h3 align="center">
   <img src="./images/transparent.png" width="65" alt="">
   Hi, I'm Daniel!
