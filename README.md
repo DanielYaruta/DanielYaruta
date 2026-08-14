@@ -17,6 +17,10 @@
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&width=500" width="100%" />
+</p>
+
+<p align="center">
   <img src="./images/cat.gif" width="100" alt="cat">
   &nbsp;&nbsp;&nbsp;
   <i>Still learning. Still building.</i>
