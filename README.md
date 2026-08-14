@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://placehold.co/40x1/00000000/00000000.png" width="40">
+  <img src="https://placehold.co/100x1/00000000/00000000.png" width="100">
   Hi, I'm Daniel!
   <img src="./images/frog.gif" width="100" alt="frog">
 </h3>
