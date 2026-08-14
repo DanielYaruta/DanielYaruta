@@ -2,6 +2,10 @@
   <img src="./images/banner.jpeg" alt="banner" width="800" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&width=1500" width="100%" />
+</p>
+
 <h3 align="center">Hi, I'm Daniel 👋</h3>
 
 <p align="center">
