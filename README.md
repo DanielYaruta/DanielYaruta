@@ -12,13 +12,13 @@
   Java • Spring Boot • Spring Security • REST APIs • PostgreSQL • Kafka • RabbitMQ • JUnit • Mockito • Maven • Gradle • Git • Docker • Kubernetes • CI/CD • Microservices • Linux
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=55&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=70&section=header" width="100%" />
 
 <h3 align="center">Featured Projects</h3>
 
 <!-- Здесь будут проекты -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=55&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=70&section=footer" width="100%" />
 
 <p align="center">
   <img src="./images/cat.gif" width="100" alt="cat">
