@@ -2,11 +2,15 @@
   <img src="./images/banner.jpeg" alt="Daniel Yaruta — Java Backend Developer" width="800" />
 </p>
 
-<h3 align="center">
-  <img src="https://placehold.co/100x1/00000000/00000000.png" width="100">
-  Hi, I'm Daniel!
-  <img src="./images/frog.gif" width="100" alt="frog">
-</h3>
+<table align="center">
+  <tr>
+    <td width="55"></td>
+    <td align="center"><h3>Hi, I'm Daniel!</h3></td>
+    <td width="55">
+      <img src="./images/frog.gif" width="55" alt="frog">
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   Java Backend Developer focused on building clean, reliable and maintainable backend systems.
