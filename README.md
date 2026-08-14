@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<i>Hi, I'm Daniel!</i>
+<h3 align="center">Hi, I'm Daniel!</h3>
   <img src="./images/frog.gif" width="100" alt="cat">
 </p>
 
