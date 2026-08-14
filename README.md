@@ -5,7 +5,7 @@
 <p align="center">
   <img src="./images/cat.gif" width="100" alt="cat">
   &nbsp;&nbsp;&nbsp;
-<h3 align="center">Hi, I'm Daniel!</h3>
+<i>Hi, I'm Daniel!</i>
   &nbsp;&nbsp;&nbsp;
   <img src="./images/cat.gif" width="100" alt="cat">
 </p>
