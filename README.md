@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-### Thanks for visiting!
+Thanks for visiting!
 </p>
