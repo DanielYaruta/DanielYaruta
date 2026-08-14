@@ -4,6 +4,6 @@
 
 <p align="center">
   <img src="./images/cat.gif" width="100" alt="Coding animation">
-𝐓𝐡𝐚𝐧𝐤𝐬 𝐟𝐨𝐫 𝐕𝐢𝐬𝐢𝐭𝐢𝐧𝐠!
+<i>Still learning. Still building.</i>
   <img src="./images/cat.gif" width="100" alt="Coding animation">
 </p>
