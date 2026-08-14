@@ -29,6 +29,7 @@
   &nbsp;&nbsp;&nbsp;
   <i>Still learning. Still building.</i>
   &nbsp;&nbsp;&nbsp;
+  <img src="./images/transparent.png" width="25" alt="">
   <img src="./images/cute_cat_02.gif" width="75" alt="cat">
 </p>
 
