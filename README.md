@@ -12,7 +12,6 @@
   Java • Spring Boot • Spring Security • REST APIs • Kafka/RabbitMQ • PostgreSQL • Maven/Gradle • Git • Docker • Kubernetes • JUnit/Mockito • CI/CD • Microservices
 </p>
 
----
 <p align="center">
   <img src="./images/cat.gif" width="100" alt="cat">
   &nbsp;&nbsp;&nbsp;
