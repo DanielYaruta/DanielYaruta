@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <img src="./images/pepe_dancing.gif" width="700" alt="Coding animation">
+  <img src="./images/pepe_dancing.gif" width="300" alt="Coding animation">
 </p>
