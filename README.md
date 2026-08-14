@@ -34,12 +34,3 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" />
 </p>
-
-<p align="center"><i>Core stack — technologies I already use and can talk about in an interview</i></p>
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,20&height=80&section=header" width="100%" />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielYaruta&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielYaruta&theme=tokyonight&hide_border=true" height="165" />
-</p>
