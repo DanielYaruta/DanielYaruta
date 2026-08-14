@@ -13,7 +13,6 @@
 </p>
 
 ---
-
 <p align="center">
   <img src="./images/cat.gif" width="100" alt="cat">
   &nbsp;&nbsp;&nbsp;
