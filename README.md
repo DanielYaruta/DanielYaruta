@@ -9,22 +9,6 @@ deepening my knowledge of Spring and backend architecture.
 
 Java • Spring Boot • PostgreSQL • Maven • Docker • Git
 
-## 🚀 Featured Projects
-
-### 💰 PersFinance
-Personal finance management backend application.
-
-### 🎮 Merge Game
-2D merge game built with Godot 4.
-
-## 📚 Currently learning
-
-- Spring Boot
-- REST API design
-- Testing
-- Docker
-- System Design
-
 ## 📫 Contact
 
 Telegram • Email • LinkedIn
