@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./cat.gif" width="100" alt="Coding animation">
+  <img src="./images/cat.gif" width="100" alt="Coding animation">
 𝐓𝐡𝐚𝐧𝐤𝐬 𝐟𝐨𝐫 𝐕𝐢𝐬𝐢𝐭𝐢𝐧𝐠!
   <img src="./images/cat.gif" width="100" alt="Coding animation">
 </p>
